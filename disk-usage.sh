@@ -1,3 +1,4 @@
+# this script is for checking disk usage
 #!/bin/bash  
 MAX=20
 EMAIL=server@127.0.0.1
