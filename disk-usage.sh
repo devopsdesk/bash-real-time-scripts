@@ -1,7 +1,7 @@
 # this script is for checking disk usage
 #For testing
 #!/bin/bash  
-MAX=20
+MAX=25
 EMAIL=server@127.0.0.1
 PART=xvda
 
